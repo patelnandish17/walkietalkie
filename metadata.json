@@ -1,0 +1,6 @@
+{
+  "name": "Squawk - Push-to-Talk Walkie-Talkie",
+  "description": "Tactile, low-latency push-to-talk walkie-talkie PWA for friend groups with live WebRTC audio, radio static squelch, and voice clip history.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
